@@ -23,6 +23,8 @@ namespace devoirMaison
         public error()
         {
             InitializeComponent();
+            qoefnqnjcze
+                zeofi
         }
     }
 }
